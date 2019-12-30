@@ -1,6 +1,6 @@
 {
   "scanSettings": {
-    "configMode": "AUTO"
+    "configMode": "LOCAL"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure"
@@ -9,5 +9,3 @@
     "minSeverityLevel": "LOW"
   }
 }
-
-
